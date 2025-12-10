@@ -33,7 +33,7 @@
 ---
 
 # 📊 GitHub Stats  
-*(Replace `YOUR_USERNAME` with your real username: shubham5080)*
+
 
 ![](https://github-readme-stats.vercel.app/api?username=shubham5080&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
