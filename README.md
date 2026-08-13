@@ -69,21 +69,6 @@ Building secure **DeFi**, **Cross-border Payments**, **Stablecoin Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=shubham5080\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=shubham5080\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham5080\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-</div>
-
----
 
 # 📊 Contribution Graph
 
