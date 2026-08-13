@@ -71,59 +71,6 @@ Building secure **DeFi**, **Cross-border Payments**, **Stablecoin Infrastructure
 
 ---
 
-# ⭐ Featured Projects
-
-## 💸 SIPIIDI
-
-Cross-border remittance platform powered by blockchain.
-
-**Features**
-
-* Secure escrow
-* USDC payments
-* OTP verification
-* Stellar & EVM integration
-* Agent-based cash-out
-
----
-
-## 🏦 Multi-chain Savings Vault
-
-A secure smart contract vault for long-term USDC savings.
-
-**Highlights**
-
-* Multi-chain deployment
-* Time-locked withdrawals
-* Secure ownership
-* Gas optimized
-
----
-
-## 🔐 Smart Contract Security
-
-Collection of secure Solidity implementations.
-
-Includes:
-
-* Reentrancy Protection
-* CEI Pattern
-* Access Control
-* Safe ERC20
-* Gas Optimization
-
----
-
-## 🌍 Open Source Contributions
-
-* Google Summer of Code
-* Blockchain Infrastructure
-* Smart Contract Development
-* Web3 SDKs
-* Developer Tooling
-
----
-
 # 📈 GitHub Stats
 
 <div align="center">
@@ -148,27 +95,7 @@ Includes:
 
 ---
 
-# 🎯 Currently Working On
 
-* Google Summer of Code 2026
-* Smart Contract Security
-* DeFi Protocols
-* Stablecoin Infrastructure
-* Cross-border Payments
-* Blockchain SDK Development
-
----
-
-# 📚 Currently Learning
-
-* Smart Contract Auditing
-* Formal Verification
-* Foundry Advanced Testing
-* Fuzz Testing
-* Protocol Architecture
-* Gas Optimization
-
----
 
 # 🤝 Let's Connect
 
