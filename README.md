@@ -2,26 +2,27 @@
 
 B.Tech CSE, [IIITM Gwalior](https://www.iiitm.ac.in/) (Class of 2028) · [GSoC 2026](https://summerofcode.withgoogle.com/) @ AOSSIE
 
-Currently learning **Ethereum execution-layer specs and tests** (`ethereum/execution-specs`: EELS + EEST) — Python, pytest, and how clients stay consensus-compatible. Previously: smart contracts (Solidity / Foundry) and open source.
+Contributing to [ethereum/execution-specs](https://github.com/ethereum/execution-specs) (EELS / EEST) — Python specs, pytest, and execution-layer tests.
 
 ---
 
-## Focus
+## Ethereum protocol
 
-- **Protocol:** reading and running `execution-specs` (state tests, `fill`, fork snapshots)
-- **Open source:** GSoC 2026 (Gitcord / AOSSIE); contributions to Ethereum-adjacent repos
-- **Contracts:** Solidity, Foundry (DeFi / payments work — secondary to protocol learning)
+- Merged [#3397](https://github.com/ethereum/execution-specs/pull/3397) — unit tests for Frontier `get_last_256_block_hashes`
+- Merged [#3416](https://github.com/ethereum/execution-specs/pull/3416) — EIP-7928 genesis `block_access_list_hash` checklist coverage
+- Open [#3462](https://github.com/ethereum/execution-specs/pull/3462) — precompile as block coinbase (issue #1669)
 
-## Selected work
+[All PRs](https://github.com/ethereum/execution-specs/pulls/shubham5080)
 
-- **GSoC 2026** — selected contributor, AOSSIE
-- **Stability Nexus Hackathon** — silver medal
-- Smart contracts on EVM chains (Foundry)
+## Also
+
+- **GSoC 2026** — Gitcord (Discord–GitHub automation) @ AOSSIE
+- **Stability Nexus Hackathon** — Silver (Open Contribution Track)
 
 ## Tools
 
-Python · pytest · Pydantic · uv · Solidity · Foundry · TypeScript · Git
+Python · pytest · uv · EELS/EEST · Solidity · Foundry · TypeScript · Git · Linux
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/shubham-shinde-085a72310/) · [Email](mailto:shubhamshinde5080@gmail.com) · [X](https://x.com/Shubham32970150)
+[LinkedIn](https://www.linkedin.com/in/shubham-shinde-085a72310/) · [Email](mailto:shubhamshinde5080@gmail.com)
