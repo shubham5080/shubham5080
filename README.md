@@ -10,7 +10,7 @@ Contributing to [ethereum/execution-specs](https://github.com/ethereum/execution
 
 - Merged [#3397](https://github.com/ethereum/execution-specs/pull/3397) — unit tests for Frontier `get_last_256_block_hashes`
 - Merged [#3416](https://github.com/ethereum/execution-specs/pull/3416) — EIP-7928 genesis `block_access_list_hash` checklist coverage
-- Open [#3462](https://github.com/ethereum/execution-specs/pull/3462) — precompile as block coinbase (issue #1669)
+- Merged [#3462](https://github.com/ethereum/execution-specs/pull/3462) — precompile as block coinbase (issue #1669)
 
 [All PRs](https://github.com/ethereum/execution-specs/pulls/shubham5080)
 
